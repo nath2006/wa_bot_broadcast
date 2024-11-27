@@ -1,0 +1,6 @@
+{
+    "intro": "*System Broadcast*",
+    "template.menu": "Ketik angka *{{number}}*\u0020: *{{menu}}*",
+    "menu.broadcastSend":"💸\u0020Kirimkan Broadcast",
+    "menu.back":"📲 Kembali ke Menu Utama"
+}
